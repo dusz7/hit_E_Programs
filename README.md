@@ -39,9 +39,9 @@
     T2：了解并学会clone、remote、push、pull、fork、pull request等操作    
     T3：fork本仓库到自己的帐号下，并将fork的仓库clone到本地  
     T4：在本地仓库新建一个分支（如dev）（不要使用默认的master分支），并使用该分支进行操作  
-    T5：在mission_two文件夹内新建一个markdown文件（或txt文件），以自己的GitHub帐号名为名，如 dusz7.md，文件中写上你最喜欢的一句话       
+    T5：在本地仓库的mission_two文件夹内新建一个markdown文件（或txt文件），以自己的GitHub帐号名为名，如 dusz7.md，文件中写上你最喜欢的一句话       
     T6：在本地仓库中提交本次修改  
-	T7：在远程仓库中新建同名分支（如dev），并将其和本地新建分支（如dev）关联  
+	T7：在远程仓库中新建同名分支（如dev），并将其和本地新建的分支（如dev）关联  
 	T8：将本地仓库的本次commit推送到远程仓库的关联分支（push）  
 	T9：向原仓库的master分支发起pull request，等待合并分支  
 #####任务截止时间：  
