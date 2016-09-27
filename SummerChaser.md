@@ -16,9 +16,9 @@
 
 -   `Everything that drowns me make me wanna fly .`    
 
--     `一人之国，一世漂泊，这一生自画何用费笔墨，光阴都记得我。` 
+-    `一人之国，一世漂泊，这一生自画何用费笔墨，光阴都记得我。` 
 
--     `Stay Hungry , Stay Foolish.` 
+-    `Stay Hungry , Stay Foolish.` 
 
 -    `论是非不论厉害 ，论顺逆不论成败。` 
 
@@ -43,4 +43,4 @@
 
 
 
-<small> *From          SummerChaser  ( 真哥 )         *</small>
+`From          SummerChaser  ( 真哥 )     `
