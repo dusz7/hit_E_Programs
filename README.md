@@ -67,3 +67,21 @@
     对于以上三种方式，建议新手同学采用第二种。第一种虽操作简单但是服务器一般不包含图形界面，对新手不够友好。而第三种性能偏差，不适合程序员真正使用Linux。    
 #####任务截止时间：  
 	下次培训之前（暂定10月9日（周日））
+
+
+###Mission four：Shell之旅 
+#####任务描述：    
+    目前大家对Linux、Vim、Shell有了一个基本的了解，那么现在请进行一些Shell的训练吧。    
+#####任务耗时： 
+    4h。
+#####任务目标： 
+    T1：在[Leetcode](https://leetcode.com)上注册一个账号。Leetcode是一个online judge平台。
+    T2：工具栏的Problems下选中Shell，浏览192~195共四道关于shell的题。
+    T3：在自己的Linux系统上，在任意目录下用vim建立测试样例文件和Shell脚本文件。
+    T4：使用vim编辑脚本使其满足题意，在本地测试通过后，将代码复制粘贴到Leetcode上，查看是否通过，不通过则检查自己的代码，重新测试与提交。通过则进行下一题。
+    额外：建议学有余力的同学阅读[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)。
+#####任务帮助：  
+    1. [鸟叔的Linux私房菜](http://linux.vbird.org/)是一本系统讲述Linux的推荐书籍。其中有关于Vim和Shell的章节可帮助完成该任务。
+    2. 学会合理使用搜索引擎去寻找资料与解决问题。
+#####任务截止时间：  
+	10月12日（星期三）晚23:50
