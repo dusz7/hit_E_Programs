@@ -73,7 +73,7 @@
 #####任务描述：    
     目前大家对Linux、Vim、Shell有了一个基本的了解，那么现在请进行一些Shell的训练吧。    
 #####任务耗时： 
-    4h。
+    4h~6h。
 #####任务目标： 
     T1：在[Leetcode](https://leetcode.com)上注册一个账号。Leetcode是一个online judge平台。
     T2：工具栏的Problems下选中Shell，浏览192~195共四道关于shell的题。
@@ -86,4 +86,4 @@
     1. [鸟叔的Linux私房菜](http://linux.vbird.org/)是一本系统讲述Linux的推荐书籍。其中有关于Vim和Shell的章节可帮助完成该任务。
     2. 学会合理使用搜索引擎去寻找资料与解决问题。
 #####任务截止时间：  
-	10月12日（星期三）晚23:50
+	10月13日（星期四）晚23:50
