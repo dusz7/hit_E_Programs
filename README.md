@@ -79,6 +79,8 @@
     T2：工具栏的Problems下选中Shell，浏览192~195共四道关于shell的题。
     T3：在自己的Linux系统上，在任意目录下用vim建立测试样例文件和Shell脚本文件。
     T4：使用vim编辑脚本使其满足题意，在本地测试通过后，将代码复制粘贴到Leetcode上，查看是否通过，不通过则检查自己的代码，重新测试与提交。通过则进行下一题。
+    T5：全部完成后，在工程中创建文件夹mission_four/<你的ID>/，在二级目录下创建192.sh 193.sh 194.sh 195.sh并提交commit。
+    T6：依照mission_two中学习的，将本地commit push到远程分支，并且选择pull request等待我们merge。
     额外：建议学有余力的同学阅读[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)。
 #####任务帮助：  
     1. [鸟叔的Linux私房菜](http://linux.vbird.org/)是一本系统讲述Linux的推荐书籍。其中有关于Vim和Shell的章节可帮助完成该任务。
