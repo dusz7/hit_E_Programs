@@ -1,0 +1,1 @@
+sed -E 's/\s+/\n/g' words.txt | sort | uniq -c | sort -nr | awk '$2!=""{print $2 " "$1}'
